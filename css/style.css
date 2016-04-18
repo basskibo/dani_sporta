@@ -776,10 +776,11 @@ footer .social li i {
 /* Footer Down ------------------------------------------------------*/
 
 .footer-down{
+	background: green;
 	padding: 20px 0;
 }
 .footer-down p{
-	color: #fff;
+	color: #fed142;
 	font-size: 16px;
 	margin: 0;
 }
@@ -793,7 +794,7 @@ footer .social li i {
 	text-transform: uppercase;
 }
 .footer-down ul li a{
-	color: #f5f5f5;
+	color: #fed142;
 	font-size: 13px;
 }
 .nav-footer li:before {
@@ -1547,4 +1548,8 @@ address strong{
 .search input,
 .search .btn{
 	height: 40px;
+}
+
+.footer-down{
+	color:black;
 }
