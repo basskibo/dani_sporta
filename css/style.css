@@ -113,13 +113,24 @@ body{
   	-ms-text-size-adjust: 100%;
   	text-size-adjust: 100%;
 }
-h1, h2, h3, h4, h5, h6 {	
+ h2, h3, h4, h5, h6 {	
 	padding: 5px 0 15px 0;	
 	margin: 0;	
-	color: #272727;
+	color: #404040;
 	font-weight: normal;
 	font-family: 'Raleway', sans-serif;
 	-webkit-font-smoothing: antialiased;
+}
+h1{
+	padding: 5px 0 15px 0;	
+	margin: 0;	
+	color: #fff;
+	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	position: relative;
+	right: 350px;
+	bottom: 125px;
 }
 p{
 	margin: 0 0 20px 0;
